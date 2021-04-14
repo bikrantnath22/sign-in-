@@ -113,7 +113,7 @@ input:focus ~ .username{
     border: none;
     padding: 0;
     width: 75px;
-    height: 25px;
+    height: 35px;
     background:#1A73E8 ;
     color: white;
     line-height: 25px;
