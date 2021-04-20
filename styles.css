@@ -132,44 +132,6 @@ input:focus ~ .username{
     line-height: 25px;
     cursor: pointer;
 }
-#div2{
-    margin-left: 565px;
-    font-size: 12px;
-    margin-top: 630px;
-}
-label{
-    font-weight: bold;
-    opacity: 0.8;
-}
-select{
-    border: 1px solid white;
-
-}
-ul{
-    list-style-type: none;
-    margin-bottom: 20px;
-}
-li{
-    float: left;
-}
-#help{
-    margin-left: 80px;
-}
-#privacy{
-    margin-left: 30px;
-}
-#Term{
-    margin-left: 30px;
-
-}
-#a4{
-    text-decoration: none;
-    color: #1a1a1a;
-    font-weight: bold;
-    opacity: 0.8;
-    font-size: 12px;
-    
-}
 
 
 
